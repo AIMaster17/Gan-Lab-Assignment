@@ -1,0 +1,2 @@
+Inception Score: 2.6011
+FID: 242.8653
